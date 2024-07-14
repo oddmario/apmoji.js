@@ -1,5 +1,5 @@
 /*
-  Apmoji.js v1.0 - Apmoji Emojis for the web
+  Apmoji.js v1.0 - Apple Emojis for the web
   Author: Mario / www.mqrio.dev
   Licensed under MIT.
 */
