@@ -9,7 +9,7 @@
 a project inspired by the Twitter/X Twemoji project — https://github.com/twitter/twemoji — **but** for the Apple Emoji set instead
 
 <p align="center">
-  <img width="700" height="auto" src="https://i.ibb.co/TKFf8SR/image.png">
+  <img width="700" height="auto" src="https://i.ibb.co/p3Wh9Br/image.png">
 </p>
 
 -----
