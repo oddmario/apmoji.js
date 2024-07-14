@@ -1,4 +1,4 @@
-# 🚀 Apmoji.js
+# 🍎 Apmoji.js
 ## Apple Emojis for the Web ☄️
 
 ![GitHub License](https://img.shields.io/github/license/oddmario/apmoji.js)
