@@ -1,5 +1,5 @@
 /*
-  Apmoji.js v1.0 - Apple Emojis for the web
+  Apmoji.js v1.1 - Apple Emojis for the web
   Author: Mario / www.mqrio.dev
   Licensed under MIT.
 */
@@ -23,7 +23,7 @@ const apmoji = {
 
                 if(i < emojis.length) {
                     const img = document.createElement('img');
-                    img.src = `https://emojicdn.elk.sh/${emojis[i]}?style=apple`;
+                    img.src = `https://emoji-cdn.mqrio.dev/${emojis[i]}?style=apple`;
                     img.draggable = false;
                     img.style.width = "1.3em";
                     img.style.height = "1.3em";
