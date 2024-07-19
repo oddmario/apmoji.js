@@ -19,7 +19,7 @@ You may include Apmoji.js from the [jsDelivr CDN](https://www.jsdelivr.com/), or
 
 To include Apmoji.js from jsDelivr, append the following line inside your `<head></head>` tag:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/oddmario/apmoji.js/dist/apmoji-v1.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/oddmario/apmoji.js/dist/apmoji-v1.2.min.js"></script>
 ```
 
 You can then start making your web pages look prettier using the main function of Apmoji.js, `apmoji.parse()`:
